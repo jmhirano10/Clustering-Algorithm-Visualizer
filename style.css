@@ -1,0 +1,19 @@
+canvas {
+    position: absolute;
+    z-index: 0;
+    width: 480px;
+    height: 480px;
+}
+
+.graph {
+    width: 480px;
+    height: 480px;
+    background-color: #262626;
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin: 0px;
+}
